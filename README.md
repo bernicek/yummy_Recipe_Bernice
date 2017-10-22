@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/bernicek/yummyrecipe.svg?branch=master)](https://travis-ci.org/bernicek/yummyrecipe)
+[![Build Status](https://travis-ci.org/bernicek/yummy_Recipe_Bernice.svg?branch=master)](https://travis-ci.org/bernicek/yummyrecipe)
 
 # Description	
 
 
-This is an application to manage collected awesome recipes and categories
+This is an application to manage collected awesome recipes and categories.
 
 
 
