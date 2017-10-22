@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bernicek/yummy_Recipe_Bernice.svg?branch=master)](https://travis-ci.org/bernicek/yummyrecipe)
+[![Build Status](https://travis-ci.org/bernicek/yummy_Recipe_Bernice.svg?branch=master)](https://travis-ci.org/bernicek/yummy-Recipe-Bernice)
 
 # Description	
 
